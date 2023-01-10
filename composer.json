@@ -8,7 +8,18 @@
             "email": "m.foroutan26@yahoo.com"
         }
     ],
+    "require": {},
     "require-dev": {
         "orchestra/testbench": "^7.19"
+    },
+    "autoload": {
+        "psr-4": {
+            "mfrtn\\Press\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "mfrtn\\Press\\Tests\\": "tests/"
+        }
     }
 }
