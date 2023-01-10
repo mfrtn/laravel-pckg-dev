@@ -1,0 +1,14 @@
+{
+    "name": "mfrtn/press",
+    "description": "Laravel Package Development Tutorial by Coder's Tape",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Foroutan",
+            "email": "m.foroutan26@yahoo.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.19"
+    }
+}
